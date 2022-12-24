@@ -41,6 +41,7 @@
                 <version>2.19.1</version>
                 <configuration>
                     <skip>true</skip>
+                    <argLine>java.base/java.lang=ALL_UNNAMED</argLine>
                 </configuration>
                 <executions>
                     <execution>
